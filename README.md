@@ -5,9 +5,12 @@ Crafted with ❤️ using **HTML, CSS, and JavaScript**, this project demonstrat
 
 ---
 
+live dimo - https://amit81082.github.io/Myntra_clone/
+
 ## 📸 Sneak Peek
 
-![Myntra Banner](https://assets.myntassets.com/f_auto,q_auto,w_1400/banner-image.jpg)  
+![image](https://github.com/user-attachments/assets/87283c30-31f2-436b-8001-1f9b7b707878)
+
 _(Replace with your screenshot or deploy preview)_
 
 ---
